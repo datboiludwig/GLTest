@@ -1,0 +1,5 @@
+C:/Users/Ludwig/source/repos/GLTest/build/CMakeFiles/GLTest.dir
+C:/Users/Ludwig/source/repos/GLTest/build/CMakeFiles/package.dir
+C:/Users/Ludwig/source/repos/GLTest/build/CMakeFiles/package_source.dir
+C:/Users/Ludwig/source/repos/GLTest/build/CMakeFiles/edit_cache.dir
+C:/Users/Ludwig/source/repos/GLTest/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,37 @@
+[
+{
+  "directory": "C:/Users/Ludwig/source/repos/GLTest/build",
+  "command": "C:\\mingw64\\bin\\gcc.exe  @CMakeFiles/GLTest.dir/includes_C.rsp -O3 -DNDEBUG -o CMakeFiles\\GLTest.dir\\main.c.obj -c C:\\Users\\Ludwig\\source\\repos\\GLTest\\main.c",
+  "file": "C:/Users/Ludwig/source/repos/GLTest/main.c"
+},
+{
+  "directory": "C:/Users/Ludwig/source/repos/GLTest/build",
+  "command": "C:\\mingw64\\bin\\gcc.exe  @CMakeFiles/GLTest.dir/includes_C.rsp -O3 -DNDEBUG -o CMakeFiles\\GLTest.dir\\sources\\game.c.obj -c C:\\Users\\Ludwig\\source\\repos\\GLTest\\sources\\game.c",
+  "file": "C:/Users/Ludwig/source/repos/GLTest/sources/game.c"
+},
+{
+  "directory": "C:/Users/Ludwig/source/repos/GLTest/build",
+  "command": "C:\\mingw64\\bin\\gcc.exe  @CMakeFiles/GLTest.dir/includes_C.rsp -O3 -DNDEBUG -o CMakeFiles\\GLTest.dir\\sources\\graphics\\renderer.c.obj -c C:\\Users\\Ludwig\\source\\repos\\GLTest\\sources\\graphics\\renderer.c",
+  "file": "C:/Users/Ludwig/source/repos/GLTest/sources/graphics/renderer.c"
+},
+{
+  "directory": "C:/Users/Ludwig/source/repos/GLTest/build",
+  "command": "C:\\mingw64\\bin\\gcc.exe  @CMakeFiles/GLTest.dir/includes_C.rsp -O3 -DNDEBUG -o CMakeFiles\\GLTest.dir\\sources\\resources\\resourcemanager.c.obj -c C:\\Users\\Ludwig\\source\\repos\\GLTest\\sources\\resources\\resourcemanager.c",
+  "file": "C:/Users/Ludwig/source/repos/GLTest/sources/resources/resourcemanager.c"
+},
+{
+  "directory": "C:/Users/Ludwig/source/repos/GLTest/build",
+  "command": "C:\\mingw64\\bin\\gcc.exe  @CMakeFiles/GLTest.dir/includes_C.rsp -O3 -DNDEBUG -o CMakeFiles\\GLTest.dir\\sources\\resources\\shaders\\shader.c.obj -c C:\\Users\\Ludwig\\source\\repos\\GLTest\\sources\\resources\\shaders\\shader.c",
+  "file": "C:/Users/Ludwig/source/repos/GLTest/sources/resources/shaders/shader.c"
+},
+{
+  "directory": "C:/Users/Ludwig/source/repos/GLTest/build",
+  "command": "C:\\mingw64\\bin\\gcc.exe  @CMakeFiles/GLTest.dir/includes_C.rsp -O3 -DNDEBUG -o CMakeFiles\\GLTest.dir\\sources\\resources\\textures\\texture.c.obj -c C:\\Users\\Ludwig\\source\\repos\\GLTest\\sources\\resources\\textures\\texture.c",
+  "file": "C:/Users/Ludwig/source/repos/GLTest/sources/resources/textures/texture.c"
+},
+{
+  "directory": "C:/Users/Ludwig/source/repos/GLTest/build",
+  "command": "C:\\mingw64\\bin\\gcc.exe  @CMakeFiles/GLTest.dir/includes_C.rsp -O3 -DNDEBUG -o CMakeFiles\\GLTest.dir\\sources\\window\\window.c.obj -c C:\\Users\\Ludwig\\source\\repos\\GLTest\\sources\\window\\window.c",
+  "file": "C:/Users/Ludwig/source/repos/GLTest/sources/window/window.c"
+}
+]
